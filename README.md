@@ -2,7 +2,5 @@
 
 Projeto Android criado a partir de Fragments e apenas uma Acticity com NavigationDrawer
 
-
-
-[[https://github.com/ElyDantas/somosamp-android/blob/master/Screenshots/1.jpg|alt=octocat]]
+![alt text](https://github.com/ElyDantas/somosamp-android/blob/master/Screenshots/1.jpg)
 
