@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/menu_navigation_view"
+    >
+
+    <group android:checkableBehavior="none">
+        <item
+            android:id="@+id/nav_inicio"
+            android:icon="@drawable/ic_chrome_reader_mode_black_24dp"
+            android:title="@string/inicio" />
+
+        <!--<item
+            android:id="@+id/nav_sobre"
+            android:icon="@drawable/ic_information_variant_black_24dp"
+            android:title="@string/sobre" />-->
+
+        <item
+            android:id="@+id/nav_autores"
+            android:icon="@drawable/ic_fingerprint_black_24dp"
+            android:title="@string/autores" />
+        <item
+            android:id="@+id/nav_categorias"
+            android:icon="@drawable/ic_style_black_24dp"
+            android:title="@string/categorias" />
+        <item
+            android:id="@+id/nav_fotos"
+            android:icon="@drawable/ic_dropbox_black_24dp"
+            android:title="@string/fotos" />
+
+        <item
+            android:id="@+id/nav_onde_estamos"
+            android:icon="@drawable/ic_public_black_24dp"
+            android:title="@string/onde_estamos" />
+
+    </group>
+
+    <group android:id="@+id/grp2" android:checkableBehavior="none" >
+
+        <item
+            android:id="@+id/nav_um_a_um_discipulado"
+            android:icon="@drawable/ic_um_a_um_discipulado"
+            android:title="@string/discipulado" />
+
+        <item
+            android:id="@+id/nav_configuracoes"
+            android:icon="@drawable/ic_settings_black_24dp"
+            android:title="@string/configuracoes" />
+
+    </group>
+
+
+    <item android:title="@string/redes_sociais">
+        <menu android:id="@+id/menu_redes_sociais">
+            <item
+                android:id="@+id/nav_redes_sociais"
+                app:actionLayout="@layout/redes_sociais" />
+        </menu>
+    </item>
+
+</menu>

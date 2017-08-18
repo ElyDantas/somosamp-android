@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/Ely/somosamp/app/libs/YouTubeAndroidPlayerApi.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="/Users/Ely/somosamp/app/build/intermediates/pre-dexed/release/YouTubeAndroidPlayerApi_0eaeb660a95a7eb1dc40cd12a1c0e899607222f0.jar" />
+    </item>
+
+</items>

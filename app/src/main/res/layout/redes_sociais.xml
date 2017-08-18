@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/linearLayoutRedesSociais"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:weightSum="3">
+
+    <ImageView
+        android:id="@+id/redes_sociais_facebook"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:padding="8dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:src="@drawable/ic_facebook_box_grey600_48dp" />
+
+    <ImageView
+        android:id="@+id/redes_sociais_instagram"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:padding="8dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:src="@drawable/ic_instagram_grey600_48dp" />
+
+    <ImageView
+        android:id="@+id/redes_sociais_youtube"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:padding="8dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:src="@drawable/ic_youtube_play_grey600_48dp" />
+
+
+</LinearLayout>

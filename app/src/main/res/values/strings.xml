@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">#SOMOSAMP</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="somosamp">#SOMOSAMP</string>
+    <string name="amplie_movimente_propague">Amplie Movimente Propague</string>
+    <string name="inicio">Início</string>
+    <string name="sobre">Sobre</string>
+    <string name="autores">Autores</string>
+    <string name="categorias">Categorias</string>
+    <string name="fotos">Fotos #SOMOSAMP</string>
+    <string name="redes_sociais">Redes Sociais</string>
+    <string name="facebook">Facebook</string>
+    <string name="onde_estamos">Onde estamos ?</string>
+    <string name="horario_culto">Todo sábado às 19h30</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="servir">Servir</string>
+    <string name="amplie">Amplie</string>
+    <string name="conheca_cada_uma">Conheça cada uma</string>
+    <string name="propague">Propague</string>
+    <string name="movimente">Movimente</string>
+    <string name="servir_descricao">“Servir”. É o tema que abordaremos durante todo o ano de 2017 no AMP (ministério de jovens da PIB de Fortaleza). A ideia dividi-se em “Ser”, “Vir” e “Servir”, no sentido de que trabalharemos o Ser baseado em quem nós, todos nós, somos. O Vir na perspectiva de quem viremos a ser. e o Servir como o processo que liga esses dois termos. O serviço entre a caminhada de quem somos até quem viremos a ser. Nosso pastor líder, Pr. Léo, é o responsável por esse categoria e escreverá textos que promovam reflexão acerca desse assunto e que irão contribuir com o que será trabalhado nos cultos ao longo do ano.</string>
+    <string name="toda_segunda_feira">Toda segunda-feira</string>
+    <string name="toda_terca_feira">Toda terça-feira</string>
+    <string name="amplie_descricao">Ampliar é preciso. Ampliar nossa visão de mundo, a profundidade em que vemos as coisas ao nosso redor e poder sair do raso. Os textos dessa categoria trazem a proposta de nos fazer pensar sob um novo ponto de vista (ou de forma mais densa) algum determinado assunto. Possui uma semelhança com textos devocionais e fixam-se no premissa de textos que trarão uma abordagem do que o cristão deve ser, pensar e/ou enxergar.</string>
+    <string name="toda_quarta_feira">Toda quarta-feira</string>
+    <string name="movimente_descricao">Cristo nos convida a estar em constante movimento. A zona de conforto está fora do vocabulário de nosso Mestre. Nessa categoria iremos pensar sobre o lado prático da vida cristã. O que um cristão deve fazer, experimentar e viver. Serão trazidos textos que se encaixam mais com verbos no imperativo e que promovam uma reflexão interior que nos motive a estar em movimento.</string>
+    <string name="toda_quinta_feira">Toda quinta-feira</string>
+    <string name="propague_descricao">Sabemos que devemos ser luz. A luz ilumina e, além disso, propaga-se no espaço. Então, por definição, não devemos ser luz que ilumina apenas a nós mesmos. A ideia dos textos nessa categoria é trazer uma reflexão mais abrangente. Não necessariamente falar da bíblia, mas apresentar uma perspectiva cristã sobre os mais variados assuntos. É o tipo de conversa que poderíamos ter em qualquer ambiente fora do templo.</string>
+    <string name="toda_sexta_feira">Toda sexta-feira</string>
+    <string name="somosamp_descricao">Aqui o Somos AMP é a prioridade. Toda semana uma nova pessoa, jovem ou adulto, que está próximo do ministério é convidada a escrever algo nessa categoria. O tipo de abordagem é livre, assim como o tema tratado.</string>
+    <string name="sobre_descricao">Essa é a proposta do AMP (ministério de jovens da PIB de Fortaleza). Ampliar nossa visão e nossos conceitos, estar em constante movimento em relação a Palavra de Deus e propagar o evangelho a todos.  Pensando na ideia de ampliar e sabendo que nós, jovens, temos um potencial de alcance que vai além das paredes do templo, concluímos que deveríamos contribuir para a edificação espiritual de forma alternativa, não limitada ao padrão de uma pregação por semana, mas os próprios jovens, frequentemente, produzindo e disponibilizando conteúdo de crescimento e abrindo portas para diálogos.  Assim surgiu a ideia de um blog. Conteúdo diário que amplie e aprofunde nossas ideias, nos mantenha em movimento e incentive o “Propague” com apenas um botão: Compartilhar.  A proposta é trazer textos de segunda a sexta, cada um baseado em uma categoria do blog, que possui suas características específicas, para promover a reflexão em diversas esferas. Contamos com a contribuição textual de nosso pastor líder, Pr. Léo, alguns colunistas fixos que se dedicarão semanalmente a preencher o blog de material e alguns autores rotativos, pessoas que serão escolhidas de maneira alternada para exporem suas ideias, opiniões e interpretações da Palavra de Deus.  Nossa oração é pra que nada aqui seja fruto do achismo. Que possamos contribuir para uma geração que pensa fora da caixa, mas dentro do evangelho.  #SomosAMP</string>
+    <string name="nome_autor">Autor</string>
+    <string name="titulo">Título</string>
+    <string name="post_descricao">Lorem ipsum dolor sit amet, no abhorreant ullamcorper qui. Volumus mediocrem urbanitas duo no, sit quas vivendum et. Ea quis delenit suavitate ius, eos an probo mediocrem. Dicam persequeris his in, ei tritani maiorum has, cu graeco detraxit ius.</string>
+    <string name="data">Data</string>
+    <string name="carregando_posts">Baixando posts, espere um instante...</string>
+    <string name="menu_refresh">Atualizar</string>
+    <string name="assita_o_culto_online">Assista o culto Online</string>
+    <string name="ir_para_google_maps">Ir para Google Maps</string>
+    <string name="configuracoes">Configurações</string>
+    <string name="discipulado">Um a Um - Discipulado</string>
+    <string name="escolha_app">Abrir com</string>
+    <string name="no_email_clients_installed">Sem emails instalados</string>
+    <string name="feedback">Feedback</string>
+    <string name="notificacao_novo_post">Notificação de novo post</string>
+    <string name="resetar_posts">Resetar posts do app</string>
+    <string name="contexto_config_notificacao_novo_post">Ativa/Desativa notificações de alerta</string>
+    <string name="contexto_config_resetar_posts">Apaga </string>
+    <string name="previous">ANTERIOR</string>
+    <string name="next">PRÓXIMA</string>
+    <string name="sem_conexao">Sem conexão com a internet</string>
+    <string name="entrar">Acessar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="informe_senha">Senha</string>
+    <string name="youtube_api_key">AIzaSyDZeZlGBZRrlZvPisM6IaevWWk-OxZiYm0</string>
+
+
+</resources>

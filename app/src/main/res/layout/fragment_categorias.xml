@@ -1,0 +1,90 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/containerCategoria"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="br.org.pibfortaleza.somosamp.fragments.CategoriasFragment"
+    android:weightSum="6">
+
+    <TextView
+        android:id="@+id/servir"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/servir"
+        android:textAllCaps="true"
+        android:gravity="center"
+        android:layout_weight="1"
+        android:textSize="20sp"
+        android:fontFamily="sans-serif-thin"
+        android:background="@color/lime_400"
+        />
+
+    <TextView
+        android:id="@+id/amplie"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/amplie"
+        android:textAllCaps="true"
+        android:gravity="center"
+        android:layout_weight="1"
+        android:textSize="20sp"
+        android:fontFamily="sans-serif-thin"
+        android:background="@color/amber_400"
+
+        />
+
+    <TextView
+        android:id="@+id/movimente"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/movimente"
+        android:textAllCaps="true"
+        android:gravity="center"
+        android:layout_weight="1"
+        android:textSize="20sp"
+        android:fontFamily="sans-serif-thin"
+        android:background="@color/orange_400"
+        />
+
+    <TextView
+        android:id="@+id/propague"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/propague"
+        android:textAllCaps="true"
+        android:gravity="center"
+        android:layout_weight="1"
+        android:textSize="20sp"
+        android:fontFamily="sans-serif-thin"
+        android:background="@color/teal_400"/>
+
+    <TextView
+        android:id="@+id/somosamp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/somosamp"
+        android:textAllCaps="true"
+        android:gravity="center"
+        android:layout_weight="1"
+        android:textSize="20sp"
+        android:fontFamily="sans-serif-thin"
+        android:background="@color/blue_grey_500"
+        android:textColor="@color/colorAccent"
+        />
+
+    <TextView
+        android:id="@+id/conhecaCadaUma"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/conheca_cada_uma"
+        android:textAllCaps="true"
+        android:gravity="center"
+        android:layout_weight="1"
+        android:textSize="20sp"
+        android:fontFamily="sans-serif-thin"
+        android:background="@color/colorPrimary"
+        android:textColor="@color/colorAccent"
+        />
+
+</LinearLayout>
