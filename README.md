@@ -8,7 +8,9 @@ Android Project with one main Activity with NavigationDrawer and many Fragments 
 <a href='https://itunes.apple.com/br/app/somosamp/id1214390075?mt=8'><img alt='Download on the App Store' src='https://github.com/ElyDantas/somosamp-android/blob/master/Screenshots/app_store_badge.png'/></a>
 
 ![alt text](https://github.com/ElyDantas/somosamp-android/blob/master/Screenshots/1.jpg)
+
 ![alt text](https://github.com/ElyDantas/somosamp-android/blob/master/Screenshots/2.jpg)
+
 ![alt text](https://github.com/ElyDantas/somosamp-android/blob/master/Screenshots/3.jpg)
 
 
